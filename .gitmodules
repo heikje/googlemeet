@@ -1,0 +1,4 @@
+[submodule "heikje/googlemeet"]
+	path = heikje/googlemeet
+	url = git@github.com:heikje/googlemeet.git
+	branch = googletest
